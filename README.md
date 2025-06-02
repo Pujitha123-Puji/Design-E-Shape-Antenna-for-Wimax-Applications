@@ -98,3 +98,13 @@ The proposed antenna design is suitable for WiMAX applications, including:
 
 Conclusion:
 The E-shape rectangular microstrip patch antenna with DGS using a multilayer dielectric configuration is a promising design for WiMAX applications. The antenna offers compact size, improved bandwidth, and good radiation pattern, making it suitable for wireless broadband and mobile WiMAX applications. Further research can be conducted to optimize the antenna design for specific applications and improve its performance.
+
+#Output of the Project:
+![Image](https://github.com/user-attachments/assets/f7a85870-3fc6-4a88-97f1-6abbece81d81)
+
+![Image](https://github.com/user-attachments/assets/45ac0a78-d4f0-4874-a588-85ee905b188d)
+
+![Image](https://github.com/user-attachments/assets/e910e084-1adf-4905-89d2-6904ad7c8105)
+
+![Image](https://github.com/user-attachments/assets/a2fee68d-7289-4a7a-b9d3-660cdcfdab4d)
+
